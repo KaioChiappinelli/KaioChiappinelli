@@ -21,11 +21,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP, com conhecime
 ## Estatísticas
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaioChiappinelli&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaioChiappinelli&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com/?user=KaioChiappinelli&theme=transparent&hide_border=true" alt="Sequência de contribuições" height="150"/>
 </p>
 
